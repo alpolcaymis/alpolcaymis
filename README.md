@@ -1,21 +1,8 @@
 ### Hi there 👋
 
 ```JSX
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'alpolcaymis';
 
-class Child extends Component {
-  render() {
-    return (
-        <p className="App-intro">
-          I'm a childish component
-        </p>
-    );
-  }
-}
-
-export default Child;
 ```
 
 <!--
