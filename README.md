@@ -2,6 +2,9 @@
 
 ```JSX
 import React from 'alpolcaymis';
+import Energy from 'alpolcaymis';
+import Passion from 'alpolcaymis';
+import Luckiness from 'alpolcaymis';
 
 ```
 
