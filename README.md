@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+```JSX
+import React, { Component } from 'react';
+import logo from './logo.svg';
+import './App.css';
+
+class Child extends Component {
+  render() {
+    return (
+        <p className="App-intro">
+          I'm a childish component
+        </p>
+    );
+  }
+}
+
+export default Child;
+```
+
 <!--
 **alpolcaymis/alpolcaymis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
