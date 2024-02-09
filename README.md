@@ -15,7 +15,8 @@ import Luckiness from 'alpolcaymis';
 ## 🧰 Languages and Tools:
 <p align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="40" style="vertical-align:top; margin:4px">
- <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px;background-color: white;">
+ <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="Next.js" height="40" style="vertical-align:top; margin:4px; background-color:white;">
+ <img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" alt="Next.js" height="40" style="vertical-align:top; margin:4px; background-color:white;">
 </p>
 
 
