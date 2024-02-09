@@ -20,7 +20,7 @@
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=alpolcaymis.alpolcaymis)
-[![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+[![Github](https://img.shields.io/github/followers/alpolcaymis?label=Follow&style=social)](https://github.com/alpolcaymis)
 
 ```JSX
 import React from 'alpolcaymis';
