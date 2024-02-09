@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-```JSX
-import React from 'alpolcaymis';
-import Energy from 'alpolcaymis';
-import Passion from 'alpolcaymis';
-import Luckiness from 'alpolcaymis';
 
-```
 ## ✉️ Find me on:
 
 
@@ -17,27 +11,18 @@ import Luckiness from 'alpolcaymis';
 </p>
 
 <br />
+
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-![Github](https://img.shields.io/github/followers/alpolcaymis?label=Follow&style=social)](https://github.com/alpolcaymis)
-![](https://visitor-badge.laobi.icu/badge?page_id=alpolcaymis.alpolcaymis)
 
-<!--
-**alpolcaymis/alpolcaymis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```JSX
+import React from 'alpolcaymis';
+import Energy from 'alpolcaymis';
+import Passion from 'alpolcaymis';
+import Luckiness from 'alpolcaymis';
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
