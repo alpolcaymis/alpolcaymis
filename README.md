@@ -6,9 +6,11 @@ import Energy from 'alpolcaymis';
 import Passion from 'alpolcaymis';
 import Luckiness from 'alpolcaymis';
 ```
+![LI-In-Bug](https://github.com/alpolcaymis/alpolcaymis/assets/71964088/2315ee6c-16de-42a1-beb7-d126d05e4c83)
+
 ## ✉️ Find me on:
 <p align="center">
- <a href="https://linkedin.com/in/alpolcaymis" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/alpolcaymis" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/alpolcaymis/alpolcaymis/assets/71964088/2315ee6c-16de-42a1-beb7-d126d05e4c83" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:alpmis99@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
